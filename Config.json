@@ -1,0 +1,17 @@
+{
+  "base_url": "https://SERVER-API-KAMU",
+  "firebase": {
+    "apiKey": "API_KEY_FIREBASE_KAMU",
+    "appId": "APP_ID_FIREBASE_KAMU",
+    "messagingSenderId": "SENDER_ID_KAMU",
+    "projectId": "PROJECT_ID_KAMU",
+    "storageBucket": "STORAGE_BUCKET_KAMU"
+  },
+  "update": {
+    "enabled": true,
+    "version": "2.0.0",
+    "apk_url": "https://LINK-APK-KAMU",
+    "force": false,
+    "changelog": "Versi terbaru aplikasi."
+  }
+}
