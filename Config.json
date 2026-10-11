@@ -5,7 +5,7 @@
     "appId": "1:176817892385:android:6022eb8d5bd652400fc760",
     "messagingSenderId": "176817892385",
     "projectId": "xdread-6e6af",
-    "storageBucket": "STORAGE_BUCKET_KAMU"
+    "storageBucket": "xdread-6e6af.firebasestorage.app"
   },
   "update": {
     "enabled": true,
