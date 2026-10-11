@@ -8,7 +8,7 @@
     "storageBucket": "xdread-6e6af.firebasestorage.app"
   },
   "update": {
-    "enabled": true,
+    "enabled": false,
     "version": "2.0.0",
     "apk_url": "https://LINK-APK-KAMU",
     "force": false,
