@@ -1,5 +1,5 @@
 {
-  "base_url": "https://SERVER-API-KAMU",
+  "base_url": "http://www.rexylegal.rxpedia.web.id:2108",
   "firebase": {
     "apiKey": "API_KEY_FIREBASE_KAMU",
     "appId": "APP_ID_FIREBASE_KAMU",
