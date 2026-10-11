@@ -2,9 +2,9 @@
   "base_url": "http://www.rexylegal.rxpedia.web.id:2108",
   "firebase": {
     "apiKey": "API_KEY_FIREBASE_KAMU",
-    "appId": "APP_ID_FIREBASE_KAMU",
-    "messagingSenderId": "SENDER_ID_KAMU",
-    "projectId": "PROJECT_ID_KAMU",
+    "appId": "1:176817892385:android:6022eb8d5bd652400fc760",
+    "messagingSenderId": "176817892385",
+    "projectId": "xdread-6e6af",
     "storageBucket": "STORAGE_BUCKET_KAMU"
   },
   "update": {
